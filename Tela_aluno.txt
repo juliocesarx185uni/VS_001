@@ -1,6 +1,8 @@
 Uninove
 
-versao: 1 
+versao: 2
 
-Nome:julio cesar de jesus ribeiro
-RA:316200232
+Nome:
+RA:
+Data Nascimento
+CPF
